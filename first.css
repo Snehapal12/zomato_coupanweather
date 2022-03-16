@@ -1,0 +1,146 @@
+body{
+    margin: auto;
+}
+a{
+    text-decoration: none
+}
+/* Header Start */
+header{
+    height:60px;
+    background-color:#e09c83
+}
+
+#icon{
+    float:left
+}
+
+#social{
+    float:right
+}
+
+.slogo{
+    height: 50px;
+    width: 50px;
+}
+#heading{
+    text-align: center;
+}
+.mainContent{
+    height:700px;
+    width:75%;
+    margin-left:13%
+}
+#filter{
+    height:500px;
+    width:22%;
+    border:2px solid red;
+    float: left;
+}
+#card{
+    height:700px;
+    width:75%;
+    margin-left:2%;
+    float: left;
+}
+
+#list{
+    height: 200px;
+    width: 40%;
+    float: left;
+    
+}
+
+#listDetail{
+    height: 200px;
+    width: 50%;
+    float: left;
+    margin-left: 7%;
+    
+}
+
+
+#list1{
+    height: 200px;
+    width: 40%;
+    float: left;
+    margin-top: 5%;
+    
+}
+
+#listDetail1{
+    height: 200px;
+    width: 50%;
+    float: left;
+    margin-top: 5%;
+    margin-left: 7%;
+    
+}
+h2{
+    margin-top: -2%;
+}
+
+#list2{
+    height: 200px;
+    width: 40%;
+    float: left;
+    margin-top: 5%;
+    
+}
+
+#listDetail2{
+    height: 200px;
+    width: 50%;
+    float: left;
+    margin-top: 5%;
+    margin-left: 7%;
+
+}
+
+            
+#list > img{
+    height: 200px;
+    width: 100%;
+    border: 5px groove grey;
+    display: inline-block;
+     
+}
+#list1 > img{
+    height: 200px;
+    width: 100%;
+    border: 5px groove grey;
+    display: inline-block;
+     
+}
+#list2 > img{
+    height: 200px;
+    width: 100%;
+    border: 5px groove grey;
+    display: inline-block;
+     
+}
+
+.checked{
+    color: red;
+}
+.btn{
+    height: 42px;
+    width:180px;
+    font-size:20px;
+    color:white;
+    background-color:rgb(191, 236, 123);
+
+}
+
+
+    /* footer Start */
+footer{
+    height:200px;
+    background-color:#e09c83
+}
+
+.foot1{
+    width:35%;
+    height:120px;
+    float: left;
+    border-right:2px solid white
+}
